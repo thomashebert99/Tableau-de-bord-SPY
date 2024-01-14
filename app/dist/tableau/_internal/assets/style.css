@@ -1,0 +1,178 @@
+body {
+    margin: 0 !important;  /* Enlève les marges du corps de la page */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 97.5vh;
+    width: 100vw !important;  /* 100% de la largeur de la fenêtre */
+    max-width: 100% !important;  /* Empêche Bootstrap de limiter la largeur */
+    margin: 0 !important;  /* Enlève les marges */
+    padding: 0 !important;  /* Enlève le padding */
+}   
+
+.header {
+    background-image: url("/assets/images/Front_Tex.png");
+    background-size: cover;
+    height: 100px;
+    display: flex;
+    align-items: center; /* Alignement vertical au centre */
+    justify-content: space-between; /* Espace entre les éléments */
+    padding-left: 5%; /* Padding à gauche et à droite */
+    padding-right: 33%;
+}
+
+.header-logo {
+    max-height: 80px; /* Assurez-vous que le logo ne dépasse pas la hauteur de l'en-tête */
+}
+
+.header-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0; /* Enlève la marge automatique */
+    padding-left: 20px; /* Padding à gauche pour équilibrer l'espacement si nécessaire */
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.content-graphs {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-left: 20px;
+}
+
+.sidebar {
+    width: 33%; /* ou la largeur que vous préférez */
+    height: calc(95vh - 130px); /* réduit la hauteur pour éliminer le curseur, ajustez selon les besoins */
+    overflow-y: auto; /* Permet le défilement vertical à l'intérieur du bloc si nécessaire */
+    margin-bottom: 10px; /* augmente la marge en bas */
+    border-right: 1px solid #ddd; /* Séparateur visuel */
+    flex: none;
+}
+
+.sidebar-header {
+    display: flex; /* Utilisez Flexbox */
+    justify-content: space-between; /* Espace entre le titre et le bouton */
+    align-items: center; /* Alignement vertical des éléments */
+    padding: 10px;
+    margin: 0;
+    border-bottom: 1px solid #ddd; /* Bordure en dessous de l'en-tête */
+}
+
+.add-button {
+    background-color: #007bff; /* Couleur de fond (Bootstrap primary color) */
+    color: white; /* Couleur du texte */
+    border: none; /* Aucune bordure */
+    cursor: pointer; /* Curseur en forme de pointeur */
+    padding: 5px 10px; /* Padding du bouton */
+    font-size: 16px; /* Taille de la police */
+    border-radius: 5px; /* Bordures arrondies */
+}
+
+.sidebar-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-list li {
+    padding: 8px 16px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Styles pour le conteneur des graphiques et dropdowns */
+.circles-container {
+    flex-grow: 1; /* Prend l'espace restant en largeur */
+    height: calc(45vh - 130px); /* Prend 50% de l'espace disponible en hauteur */
+    display: flex;
+    flex-direction: row; /* Disposition horizontale des enfants */
+    align-items: center; /* Centre verticalement le contenu */
+    justify-content: flex-start; /* Alignement du contenu à gauche */
+    overflow: hidden; /* Cache tout contenu débordant */
+    border-bottom: 2px solid #ccc;
+}
+
+/* Styles pour le conteneur du graphique */
+.circle-graph-container {
+    width: 50%; /* Prend la moitié de la largeur du circles-container */
+    height: 100%; /* Prend toute la hauteur du circles-container */
+    display: flex;
+    align-items: center; /* Centre verticalement le graphique */
+    justify-content: center; /* Centre horizontalement le graphique */
+    z-index: 1;
+}
+
+/* Styles pour le conteneur des dropdowns */
+.circle-dropdown-container {
+    width: 50%; /* Prend l'autre moitié de la largeur du circles-container */
+    display: flex;
+    flex-direction: column; /* Empile les dropdowns verticalement */
+    justify-content: center; /* Centre verticalement les dropdowns */
+    align-items: flex-start; /* Alignement à gauche des dropdowns */
+    padding-left: 10px; /* Espacement à gauche pour les séparer du graphique */
+    height: 100%;
+    position: relative;
+}
+
+.barplot-grouped-container {
+    flex-grow: 1; /* Prend l'espace restant en largeur */
+    height: calc(65vh - 130px); /* Prend 50% de l'espace disponible en hauteur */
+    display: flex;
+    flex-direction: row; /* Disposition horizontale des enfants */
+    align-items: center; /* Centre verticalement le contenu */
+    justify-content: flex-start; /* Alignement du contenu à gauche */
+    overflow: visible; /* Cache tout contenu débordant */
+    z-index: 1;
+}
+
+.dash-graph {
+    width: 95%; /* Assurez-vous que le graphique prend toute la largeur de son conteneur */
+    height: 95%;
+}
+
+#unique-graph-id {
+    width: 100%;
+    height: 100%;
+}
+
+.container-title {
+    margin: 0;
+    font-size: 24px; /* Exemple de taille de police */
+    margin-bottom: 10px; /* Espace sous le titre */
+    text-align: center; /* Centre le texte */
+    color: #333; /* Couleur du texte */
+    /* Autres styles si nécessaire */
+}
+
+#barplot-title {
+    padding-top: 10px;
+}
+
+.content-graphs,
+.barplot-grouped-container,
+.circles-container {
+    overflow: visible; /* Assurez-vous que le contenu débordant peut être visible */
+}
+
+.barplot-grouped-container-details {
+    flex-grow: 1; /* Prend l'espace restant en largeur */
+    height: calc(65vh - 130px); /* Prend 50% de l'espace disponible en hauteur */
+    display: flex;
+    flex-direction: column; /* Disposition horizontale des enfants */
+    align-items: center; /* Centre verticalement le contenu */
+    justify-content: flex-start; /* Alignement du contenu à gauche */
+    overflow: hidden; /* Cache tout contenu débordant */
+    z-index: 1;
+}
+
+

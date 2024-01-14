@@ -1,0 +1,73 @@
+scenario,level,xml,attempts,success,score,stars,time
+0 - tutoriel,[fr]tutoriel[/fr][en]tutorial[/en],levels/tutoriel/tutoriel.xml,1.0,1.0,10500.0,3.0,9.915
+1 - explorateur,[fr]niveau01[/fr][en]level01[/en],levels/explorateur/niveau01.xml,1.0,1.0,15500.0,3.0,10.865
+1 - explorateur,[fr]niveau02[/fr][en]level02[/en],levels/explorateur/niveau02.xml,2.0,1.0,12999.0,3.0,25.808999999999997
+1 - explorateur,[fr]niveau03[/fr][en]level03[/en],levels/explorateur/niveau03.xml,2.0,1.0,11750.0,3.0,21.288
+1 - explorateur,[fr]niveau04[/fr][en]level04[/en],levels/explorateur/niveau04.xml,1.0,1.0,10499.0,3.0,12.706
+1 - explorateur,[fr]niveau05[/fr][en]level05[/en],levels/explorateur/niveau05.xml,1.0,1.0,9875.0,3.0,13.404
+1 - explorateur,[fr]niveau06[/fr][en]level06[/en],levels/tutoriel/ouvrirporte.xml,1.0,1.0,5499.0,3.0,16.303
+1 - explorateur,[fr]niveau07[/fr][en]level07[/en],levels/explorateur/niveau06.xml,1.0,1.0,9249.0,3.0,31.62
+1 - explorateur,[fr]niveau08[/fr][en]level08[/en],levels/explorateur/niveau07.xml,1.0,1.0,9153.0,3.0,27.932
+1 - explorateur,[fr]niveau09[/fr][en]level09[/en],levels/explorateur/niveau08.xml,1.0,1.0,8882.0,3.0,53.698
+2 - collaborateur,[fr]niveau01[/fr][en]level01[/en],levels/tutoriel/nommerscript.xml,1.0,1.0,6000.0,3.0,18.609
+2 - collaborateur,[fr]niveau02[/fr][en]level02[/en],levels/collaborateur/niveau01.xml,1.0,1.0,15678.0,3.0,14.879
+2 - collaborateur,[fr]niveau03[/fr][en]level03[/en],levels/collaborateur/niveau02.xml,2.0,1.0,14483.0,3.0,54.983000000000004
+2 - collaborateur,[fr]niveau04[/fr][en]level04[/en],levels/collaborateur/niveau03.xml,2.0,1.0,13930.0,3.0,114.368
+2 - collaborateur,[fr]niveau05[/fr][en]level05[/en],levels/collaborateur/niveau04.xml,2.0,1.0,14026.0,3.0,91.439
+2 - collaborateur,[fr]niveau06[/fr][en]level06[/en],levels/infiltration/niveau07.xml,1.0,1.0,3976.0,3.0,44.898
+2 - collaborateur,[fr]niveau07[/fr][en]level07[/en],levels/infiltration/niveau10.xml,4.0,1.0,3854.0,3.0,119.664
+2 - collaborateur,[fr]niveau08[/fr][en]level08[/en],levels/collaborateur/niveau05.xml,1.0,1.0,14143.0,3.0,49.953
+2 - collaborateur,[fr]niveau09[/fr][en]level09[/en],levels/collaborateur/niveau06.xml,2.0,1.0,13776.0,3.0,62.403999999999996
+2 - collaborateur,[fr]niveau10[/fr][en]level10[/en],levels/collaborateur/niveau07.xml,1.0,1.0,13784.0,3.0,79.325
+2 - collaborateur,[fr]niveau11[/fr][en]level11[/en],levels/tutoriel/createscript.xml,1.0,1.0,6750.0,3.0,52.171
+2 - collaborateur,[fr]niveau12[/fr][en]level12[/en],levels/collaborateur/niveau08.xml,1.0,1.0,14143.0,3.0,69.126
+3 - repetiteur,[fr]niveau01[/fr][en]level01[/en],levels/repetiteur/niveau01.xml,1.0,1.0,9875.0,3.0,16.263
+3 - repetiteur,[fr]niveau02[/fr][en]level02[/en],levels/repetiteur/niveau02.xml,3.0,1.0,11888.0,3.0,58.294
+3 - repetiteur,[fr]niveau03[/fr][en]level03[/en],levels/repetiteur/niveau03.xml,2.0,1.0,10050.0,3.0,134.358
+3 - repetiteur,[fr]niveau04[/fr][en]level04[/en],levels/blocklymaze/niveau04.xml,2.0,1.0,4943.0,3.0,66.172
+3 - repetiteur,[fr]niveau05[/fr][en]level05[/en],levels/repetiteur/niveau04.xml,1.0,1.0,9655.0,3.0,31.847
+3 - repetiteur,[fr]niveau06[/fr][en]level06[/en],levels/repetiteur/niveau05.xml,2.0,1.0,10250.0,3.0,59.675000000000004
+3 - repetiteur,[fr]niveau07[/fr][en]level07[/en],levels/repetiteur/niveau06.xml,3.0,1.0,5416.0,3.0,60.08200000000001
+3 - repetiteur,[fr]niveau08[/fr][en]level08[/en],levels/repetiteur/niveau07.xml,5.0,1.0,9333.0,1.0,281.262
+3 - repetiteur,[fr]niveau09[/fr][en]level09[/en],levels/tutoriel/ouvrirporte.xml,1.0,1.0,5499.0,3.0,16.566
+3 - repetiteur,[fr]niveau10[/fr][en]level10[/en],levels/repetiteur/niveau08.xml,2.0,1.0,7447.0,2.0,417.41700000000003
+4 - selectionneur,[fr]niveau01[/fr][en]level01[/en],levels/blocklymaze/niveau06.xml,1.0,1.0,4893.0,3.0,69.283
+4 - selectionneur,[fr]niveau02[/fr][en]level02[/en],levels/infiltration/niveau14.xml,1.0,1.0,4999.0,3.0,30.137
+4 - selectionneur,[fr]niveau03[/fr][en]level03[/en],levels/infiltration/niveau15.xml,1.0,1.0,5833.0,3.0,20.549
+4 - selectionneur,[fr]niveau04[/fr][en]level04[/en],levels/blocklymaze/niveau07.xml,1.0,1.0,4960.0,3.0,98.669
+4 - selectionneur,[fr]niveau05[/fr][en]level05[/en],levels/blocklymaze/niveau08.xml,1.0,1.0,4109.0,3.0,67.822
+4 - selectionneur,[fr]niveau06[/fr][en]level06[/en],levels/infiltration/niveau16.xml,1.0,1.0,4166.0,3.0,45.591
+4 - selectionneur,[fr]niveau07[/fr][en]level07[/en],levels/infiltration/niveau20.xml,2.0,1.0,4666.0,3.0,78.829
+4 - selectionneur,[fr]niveau08[/fr][en]level08[/en],levels/selectionneur/niveau01.xml,2.0,1.0,4527.0,3.0,98.687
+blocklymaze,[fr]niveau01[/fr][en]level01[/en],levels/blocklymaze/niveau01.xml,,,,,
+blocklymaze,[fr]niveau02[/fr][en]level02[/en],levels/blocklymaze/niveau02.xml,,,,,
+blocklymaze,[fr]niveau03[/fr][en]level03[/en],levels/blocklymaze/niveau03.xml,,,,,
+blocklymaze,[fr]niveau04[/fr][en]level04[/en],levels/blocklymaze/niveau04.xml,,,,,
+blocklymaze,[fr]niveau05[/fr][en]level05[/en],levels/blocklymaze/niveau05.xml,,,,,
+blocklymaze,[fr]niveau06[/fr][en]level06[/en],levels/blocklymaze/niveau06.xml,,,,,
+blocklymaze,[fr]niveau07[/fr][en]level07[/en],levels/blocklymaze/niveau07.xml,,,,,
+blocklymaze,[fr]niveau08[/fr][en]level08[/en],levels/blocklymaze/niveau08.xml,,,,,
+blocklymaze,[fr]niveau09[/fr][en]level09[/en],levels/blocklymaze/niveau09.xml,,,,,
+blocklymaze,[fr]niveau10[/fr][en]level10[/en],levels/blocklymaze/niveau10.xml,,,,,
+infiltration,[fr]niveau01[/fr][en]level01[/en],levels/infiltration/niveau01.xml,,,,,
+infiltration,[fr]niveau02[/fr][en]level02[/en],levels/infiltration/niveau02.xml,,,,,
+infiltration,[fr]niveau03[/fr][en]level03[/en],levels/infiltration/niveau03.xml,,,,,
+infiltration,[fr]niveau04[/fr][en]level04[/en],levels/tutoriel/nommerscript.xml,,,,,
+infiltration,[fr]niveau05[/fr][en]level05[/en],levels/infiltration/niveau04.xml,,,,,
+infiltration,[fr]niveau06[/fr][en]level06[/en],levels/infiltration/niveau05.xml,,,,,
+infiltration,[fr]niveau07[/fr][en]level07[/en],levels/infiltration/niveau06.xml,,,,,
+infiltration,[fr]niveau08[/fr][en]level08[/en],levels/infiltration/niveau07.xml,,,,,
+infiltration,[fr]niveau09[/fr][en]level09[/en],levels/tutoriel/ouvrirporte.xml,,,,,
+infiltration,[fr]niveau10[/fr][en]level10[/en],levels/infiltration/niveau09.xml,,,,,
+infiltration,[fr]niveau11[/fr][en]level11[/en],levels/infiltration/niveau10.xml,,,,,
+infiltration,[fr]niveau12[/fr][en]level12[/en],levels/infiltration/niveau11.xml,,,,,
+infiltration,[fr]niveau13[/fr][en]level13[/en],levels/infiltration/niveau12.xml,,,,,
+infiltration,[fr]niveau14[/fr][en]level14[/en],levels/infiltration/niveau13.xml,,,,,
+infiltration,[fr]niveau15[/fr][en]level15[/en],levels/infiltration/niveau14.xml,,,,,
+infiltration,[fr]niveau16[/fr][en]level16[/en],levels/infiltration/niveau15.xml,,,,,
+infiltration,[fr]niveau17[/fr][en]level17[/en],levels/infiltration/niveau16.xml,,,,,
+infiltration,[fr]niveau18[/fr][en]level18[/en],levels/infiltration/niveau17.xml,,,,,
+infiltration,[fr]niveau19[/fr][en]level19[/en],levels/infiltration/niveau18.xml,,,,,
+infiltration,[fr]niveau20[/fr][en]level20[/en],levels/infiltration/niveau19.xml,,,,,
+infiltration,[fr]niveau21[/fr][en]level21[/en],levels/infiltration/niveau20.xml,,,,,
+infiltration,[fr]niveau22[/fr][en]level22[/en],levels/infiltration/niveau21.xml,,,,,

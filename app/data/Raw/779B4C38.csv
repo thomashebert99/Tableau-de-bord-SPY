@@ -1,0 +1,138 @@
+actor,timestamp,verb,xml,scenario,level,success,score
+779B4C38,2023-05-11T14:17:25.9940000Z,launched,levels/tutoriel/tutoriel.xml,0 - tutoriel,tutoriel,,
+779B4C38,2023-05-11T14:18:11.8230000Z,completed,,,,True,10500
+779B4C38,2023-05-11T14:18:13.8780000Z,exited,levels/tutoriel/tutoriel.xml,,,,
+779B4C38,2023-05-11T14:18:22.2310000Z,launched,levels/explorateur/niveau01.xml,1 - explorateur,niveau01,,
+779B4C38,2023-05-11T14:18:30.7330000Z,completed,,,,True,15500
+779B4C38,2023-05-11T14:18:33.8150000Z,exited,levels/explorateur/niveau01.xml,,,,
+779B4C38,2023-05-11T14:18:33.9840000Z,launched,levels/explorateur/niveau02.xml,1 - explorateur,niveau02,,
+779B4C38,2023-05-11T14:18:42.2370000Z,completed,,,,True,12999
+779B4C38,2023-05-11T14:18:44.4360000Z,exited,levels/explorateur/niveau02.xml,,,,
+779B4C38,2023-05-11T14:18:44.6040000Z,launched,levels/explorateur/niveau03.xml,1 - explorateur,niveau03,,
+779B4C38,2023-05-11T14:19:05.3340000Z,completed,,,,True,11750
+779B4C38,2023-05-11T14:19:07.1320000Z,exited,levels/explorateur/niveau03.xml,,,,
+779B4C38,2023-05-11T14:19:07.3100000Z,launched,levels/explorateur/niveau04.xml,1 - explorateur,niveau04,,
+779B4C38,2023-05-11T14:19:42.3880000Z,completed,,,,True,9499
+779B4C38,2023-05-11T14:19:43.8060000Z,exited,levels/explorateur/niveau04.xml,,,,
+779B4C38,2023-05-11T14:19:43.9700000Z,launched,levels/explorateur/niveau04.xml,1 - explorateur,niveau04,,
+779B4C38,2023-05-11T14:19:54.7620000Z,completed,,,,True,10499
+779B4C38,2023-05-11T14:19:56.2710000Z,exited,levels/explorateur/niveau04.xml,,,,
+779B4C38,2023-05-11T14:19:56.4410000Z,launched,levels/explorateur/niveau05.xml,1 - explorateur,niveau05,,
+779B4C38,2023-05-11T14:20:32.5930000Z,completed,,,,True,9875
+779B4C38,2023-05-11T14:20:35.0750000Z,exited,levels/explorateur/niveau05.xml,,,,
+779B4C38,2023-05-11T14:20:35.3010000Z,launched,levels/tutoriel/ouvrirporte.xml,1 - explorateur,niveau06,,
+779B4C38,2023-05-11T14:21:16.3120000Z,completed,,,,True,5499
+779B4C38,2023-05-11T14:21:17.7420000Z,exited,levels/tutoriel/ouvrirporte.xml,,,,
+779B4C38,2023-05-11T14:21:17.9650000Z,launched,levels/explorateur/niveau06.xml,1 - explorateur,niveau07,,
+779B4C38,2023-05-11T14:22:22.2510000Z,completed,,,,True,9249
+779B4C38,2023-05-11T14:22:23.5390000Z,exited,levels/explorateur/niveau06.xml,,,,
+779B4C38,2023-05-11T14:22:23.7780000Z,launched,levels/explorateur/niveau07.xml,1 - explorateur,niveau08,,
+779B4C38,2023-05-11T14:23:19.0500000Z,completed,,,,True,9153
+779B4C38,2023-05-11T14:23:20.7060000Z,exited,levels/explorateur/niveau07.xml,,,,
+779B4C38,2023-05-11T14:23:20.9310000Z,launched,levels/explorateur/niveau08.xml,1 - explorateur,niveau09,,
+779B4C38,2023-05-11T14:25:27.5600000Z,completed,,,,True,8882
+779B4C38,2023-05-11T14:25:31.0130000Z,exited,levels/explorateur/niveau08.xml,,,,
+779B4C38,2023-05-11T14:25:56.9630000Z,launched,levels/tutoriel/nommerscript.xml,2 - collaborateur,niveau01,,
+779B4C38,2023-06-01T12:29:27.7150000Z,launched,levels/tutoriel/nommerscript.xml,2 - collaborateur,niveau01,,
+779B4C38,2023-06-01T12:30:27.7380000Z,completed,,,,True,5000
+779B4C38,2023-06-01T12:30:35.5920000Z,exited,levels/tutoriel/nommerscript.xml,,,,
+779B4C38,2023-06-01T12:30:35.7820000Z,launched,levels/tutoriel/nommerscript.xml,2 - collaborateur,niveau01,,
+779B4C38,2023-06-01T12:30:45.9600000Z,completed,,,,True,6000
+779B4C38,2023-06-01T12:30:48.1910000Z,exited,levels/tutoriel/nommerscript.xml,,,,
+779B4C38,2023-06-01T12:30:48.4100000Z,launched,levels/collaborateur/niveau01.xml,2 - collaborateur,niveau02,,
+779B4C38,2023-06-01T12:31:43.2180000Z,completed,,,,True,13623
+779B4C38,2023-06-01T12:31:45.0530000Z,exited,levels/collaborateur/niveau01.xml,,,,
+779B4C38,2023-06-01T12:31:45.2690000Z,launched,levels/collaborateur/niveau01.xml,2 - collaborateur,niveau02,,
+779B4C38,2023-06-01T12:32:36.8650000Z,completed,,,,True,13534
+779B4C38,2023-06-01T12:32:38.3760000Z,exited,levels/collaborateur/niveau01.xml,,,,
+779B4C38,2023-06-01T12:32:38.6300000Z,launched,levels/collaborateur/niveau01.xml,2 - collaborateur,niveau02,,
+779B4C38,2023-06-01T12:33:05.4110000Z,completed,,,,True,16000
+779B4C38,2023-06-01T12:33:07.5470000Z,exited,levels/collaborateur/niveau01.xml,,,,
+779B4C38,2023-06-01T12:33:07.8350000Z,launched,levels/collaborateur/niveau02.xml,2 - collaborateur,niveau03,,
+779B4C38,2023-06-01T12:34:30.6730000Z,completed,,,,True,14483
+779B4C38,2023-06-01T12:34:38.0990000Z,exited,levels/collaborateur/niveau02.xml,,,,
+779B4C38,2023-06-01T12:34:38.3290000Z,launched,levels/collaborateur/niveau03.xml,2 - collaborateur,niveau04,,
+779B4C38,2023-06-01T12:36:37.0770000Z,completed,,,,True,12717
+779B4C38,2023-06-01T12:36:38.5820000Z,exited,levels/collaborateur/niveau03.xml,,,,
+779B4C38,2023-06-01T12:36:38.8250000Z,launched,levels/collaborateur/niveau03.xml,2 - collaborateur,niveau04,,
+779B4C38,2023-06-01T12:38:05.3820000Z,completed,,,,True,12717
+779B4C38,2023-06-01T12:38:07.3530000Z,exited,levels/collaborateur/niveau03.xml,,,,
+779B4C38,2023-06-01T12:38:07.5860000Z,launched,levels/collaborateur/niveau03.xml,2 - collaborateur,niveau04,,
+779B4C38,2023-06-01T12:39:00.4150000Z,completed,,,,True,13930
+779B4C38,2023-06-01T12:39:02.3410000Z,exited,levels/collaborateur/niveau03.xml,,,,
+779B4C38,2023-06-01T12:39:02.5820000Z,launched,levels/collaborateur/niveau04.xml,2 - collaborateur,niveau05,,
+779B4C38,2023-06-01T12:40:25.0990000Z,completed,,,,True,13930
+779B4C38,2023-06-01T12:40:33.0820000Z,exited,levels/collaborateur/niveau04.xml,,,,
+779B4C38,2023-06-01T12:40:33.3180000Z,launched,levels/collaborateur/niveau04.xml,2 - collaborateur,niveau05,,
+779B4C38,2023-06-01T12:40:46.9280000Z,completed,,,,True,13892
+779B4C38,2023-06-01T12:40:53.0360000Z,exited,levels/collaborateur/niveau04.xml,,,,
+779B4C38,2023-06-01T12:40:53.2400000Z,launched,levels/infiltration/niveau07.xml,2 - collaborateur,niveau06,,
+779B4C38,2023-06-01T12:43:09.6910000Z,completed,,,,True,3976
+779B4C38,2023-06-01T12:43:10.8640000Z,exited,levels/infiltration/niveau07.xml,,,,
+779B4C38,2023-06-01T12:43:11.3020000Z,launched,levels/infiltration/niveau10.xml,2 - collaborateur,niveau07,,
+779B4C38,2023-06-01T12:43:55.8430000Z,completed,,,,True,3854
+779B4C38,2023-06-01T12:43:57.4610000Z,exited,levels/infiltration/niveau10.xml,,,,
+779B4C38,2023-06-01T12:43:57.6980000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+779B4C38,2023-06-01T12:46:34.8600000Z,completed,,,,True,14143
+779B4C38,2023-06-01T12:46:36.5420000Z,exited,levels/collaborateur/niveau05.xml,,,,
+779B4C38,2023-06-01T12:46:36.8370000Z,launched,levels/collaborateur/niveau06.xml,2 - collaborateur,niveau09,,
+779B4C38,2023-06-01T12:47:18.3950000Z,completed,,,,False,
+779B4C38,2023-06-01T12:47:19.7210000Z,exited,levels/collaborateur/niveau06.xml,,,,
+779B4C38,2023-06-01T12:47:20.0090000Z,launched,levels/collaborateur/niveau06.xml,2 - collaborateur,niveau09,,
+779B4C38,2023-06-01T12:48:02.4970000Z,completed,,,,False,
+779B4C38,2023-06-01T12:48:04.1210000Z,exited,levels/collaborateur/niveau06.xml,,,,
+779B4C38,2023-06-01T12:48:04.4230000Z,launched,levels/collaborateur/niveau06.xml,2 - collaborateur,niveau09,,
+779B4C38,2023-06-01T12:49:13.1520000Z,completed,,,,False,
+779B4C38,2023-06-01T12:49:15.2590000Z,exited,levels/collaborateur/niveau06.xml,,,,
+779B4C38,2023-06-01T12:49:15.5560000Z,launched,levels/collaborateur/niveau06.xml,2 - collaborateur,niveau09,,
+779B4C38,2023-06-01T12:49:47.3860000Z,completed,,,,True,13776
+779B4C38,2023-06-01T12:49:48.9270000Z,exited,levels/collaborateur/niveau06.xml,,,,
+779B4C38,2023-06-01T12:49:49.1720000Z,launched,levels/collaborateur/niveau07.xml,2 - collaborateur,niveau10,,
+779B4C38,2023-06-01T12:52:07.6220000Z,completed,,,,False,
+779B4C38,2023-06-01T12:52:09.1390000Z,exited,levels/collaborateur/niveau07.xml,,,,
+779B4C38,2023-06-01T12:52:09.3810000Z,launched,levels/collaborateur/niveau07.xml,2 - collaborateur,niveau10,,
+779B4C38,2023-06-01T12:52:25.1020000Z,completed,,,,False,
+779B4C38,2023-06-01T12:52:26.3180000Z,exited,levels/collaborateur/niveau07.xml,,,,
+779B4C38,2023-06-01T12:52:26.5620000Z,launched,levels/collaborateur/niveau07.xml,2 - collaborateur,niveau10,,
+779B4C38,2023-06-01T12:53:49.3810000Z,completed,,,,False,
+779B4C38,2023-06-01T12:53:55.7770000Z,exited,levels/collaborateur/niveau07.xml,,,,
+779B4C38,2023-06-01T12:53:56.0210000Z,launched,levels/collaborateur/niveau07.xml,2 - collaborateur,niveau10,,
+779B4C38,2023-06-01T12:54:33.8270000Z,completed,,,,False,
+779B4C38,2023-06-01T12:54:35.6510000Z,exited,levels/collaborateur/niveau07.xml,,,,
+779B4C38,2023-06-01T12:54:35.9060000Z,launched,levels/collaborateur/niveau07.xml,2 - collaborateur,niveau10,,
+779B4C38,2023-06-01T12:55:38.7290000Z,completed,,,,True,13784
+779B4C38,2023-06-01T12:55:40.2860000Z,exited,levels/collaborateur/niveau07.xml,,,,
+779B4C38,2023-06-01T12:55:40.4910000Z,launched,levels/tutoriel/createscript.xml,2 - collaborateur,niveau11,,
+779B4C38,2023-06-01T12:56:14.6400000Z,completed,,,,True,6750
+779B4C38,2023-06-01T12:56:16.1190000Z,exited,levels/tutoriel/createscript.xml,,,,
+779B4C38,2023-06-01T12:56:16.4190000Z,launched,levels/collaborateur/niveau08.xml,2 - collaborateur,niveau12,,
+779B4C38,2023-06-01T12:57:08.4360000Z,exited,levels/collaborateur/niveau08.xml,,,,
+779B4C38,2023-06-01T12:57:08.7270000Z,launched,levels/collaborateur/niveau08.xml,2 - collaborateur,niveau12,,
+779B4C38,2023-06-01T12:58:08.1350000Z,exited,levels/collaborateur/niveau08.xml,,,,
+779B4C38,2023-06-01T12:58:08.4400000Z,launched,levels/collaborateur/niveau08.xml,2 - collaborateur,niveau12,,
+779B4C38,2023-06-01T12:58:24.9210000Z,exited,levels/collaborateur/niveau08.xml,,,,
+779B4C38,2023-06-01T12:58:25.2590000Z,launched,levels/collaborateur/niveau08.xml,2 - collaborateur,niveau12,,
+779B4C38,2023-06-01T12:58:44.6510000Z,exited,levels/collaborateur/niveau08.xml,,,,
+779B4C38,2023-06-01T12:58:44.9490000Z,launched,levels/collaborateur/niveau08.xml,2 - collaborateur,niveau12,,
+779B4C38,2023-06-01T12:59:08.7090000Z,completed,,,,True,14026
+779B4C38,2023-06-01T12:59:10.9670000Z,exited,levels/collaborateur/niveau08.xml,,,,
+779B4C38,2023-06-01T12:59:19.4620000Z,launched,levels/repetiteur/niveau01.xml,3 - repetiteur,niveau01,,
+779B4C38,2023-06-01T12:59:50.4440000Z,completed,,,,True,9875
+779B4C38,2023-06-01T12:59:52.8180000Z,exited,levels/repetiteur/niveau01.xml,,,,
+779B4C38,2023-06-01T12:59:53.0310000Z,launched,levels/repetiteur/niveau02.xml,3 - repetiteur,niveau02,,
+779B4C38,2023-06-01T13:00:26.8970000Z,completed,,,,True,11888
+779B4C38,2023-06-01T13:00:28.7390000Z,exited,levels/repetiteur/niveau02.xml,,,,
+779B4C38,2023-06-01T13:00:28.9580000Z,launched,levels/repetiteur/niveau03.xml,3 - repetiteur,niveau03,,
+779B4C38,2023-06-01T13:01:13.6130000Z,exited,levels/repetiteur/niveau03.xml,,,,
+779B4C38,2023-06-01T13:01:13.8380000Z,launched,levels/repetiteur/niveau03.xml,3 - repetiteur,niveau03,,
+779B4C38,2023-06-01T13:02:01.8830000Z,exited,levels/repetiteur/niveau03.xml,,,,
+779B4C38,2023-06-01T13:02:02.1010000Z,launched,levels/repetiteur/niveau03.xml,3 - repetiteur,niveau03,,
+779B4C38,2023-06-01T13:02:32.7740000Z,completed,,,,True,10050
+779B4C38,2023-06-01T13:02:35.9010000Z,exited,levels/repetiteur/niveau03.xml,,,,
+779B4C38,2023-06-01T13:02:36.1350000Z,launched,levels/blocklymaze/niveau04.xml,3 - repetiteur,niveau04,,
+779B4C38,2023-06-01T13:04:00.4490000Z,exited,levels/blocklymaze/niveau04.xml,,,,
+779B4C38,2023-06-01T13:04:00.6830000Z,launched,levels/blocklymaze/niveau04.xml,3 - repetiteur,niveau04,,
+779B4C38,2023-06-01T13:04:38.2950000Z,completed,,,,True,4943
+779B4C38,2023-06-01T13:04:39.6390000Z,exited,levels/blocklymaze/niveau04.xml,,,,
+779B4C38,2023-06-01T13:04:39.8820000Z,launched,levels/repetiteur/niveau04.xml,3 - repetiteur,niveau05,,
+779B4C38,2023-06-01T13:05:42.9710000Z,completed,,,,True,9655

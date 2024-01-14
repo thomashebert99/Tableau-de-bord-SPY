@@ -1,0 +1,186 @@
+actor,timestamp,verb,xml,scenario,level,success,score
+A5A6ED94,2023-09-18T13:39:52.6410000Z,launched,levels/tutoriel/tutoriel.xml,0 - tutoriel,[fr]tutoriel[/fr][en]tutorial[/en],,
+A5A6ED94,2023-09-18T13:40:02.5560000Z,completed,,,,True,10500
+A5A6ED94,2023-09-18T13:40:04.7460000Z,exited,levels/tutoriel/tutoriel.xml,,,,
+A5A6ED94,2023-09-18T13:40:10.4580000Z,launched,levels/explorateur/niveau01.xml,1 - explorateur,[fr]niveau01[/fr][en]level01[/en],,
+A5A6ED94,2023-09-18T13:40:21.3230000Z,completed,,,,True,15500
+A5A6ED94,2023-09-18T13:40:22.8610000Z,exited,levels/explorateur/niveau01.xml,,,,
+A5A6ED94,2023-09-18T13:40:23.1580000Z,launched,levels/explorateur/niveau02.xml,1 - explorateur,[fr]niveau02[/fr][en]level02[/en],,
+A5A6ED94,2023-09-18T13:40:43.4830000Z,completed,,,,True,11999
+A5A6ED94,2023-09-18T13:40:47.9250000Z,exited,levels/explorateur/niveau02.xml,,,,
+A5A6ED94,2023-09-18T13:40:48.2320000Z,launched,levels/explorateur/niveau02.xml,1 - explorateur,[fr]niveau02[/fr][en]level02[/en],,
+A5A6ED94,2023-09-18T13:40:53.7160000Z,completed,,,,True,12999
+A5A6ED94,2023-09-18T13:40:56.1620000Z,exited,levels/explorateur/niveau02.xml,,,,
+A5A6ED94,2023-09-18T13:40:56.4690000Z,launched,levels/explorateur/niveau03.xml,1 - explorateur,[fr]niveau03[/fr][en]level03[/en],,
+A5A6ED94,2023-09-18T13:41:09.2150000Z,exited,levels/explorateur/niveau03.xml,,,,
+A5A6ED94,2023-09-18T13:41:09.5220000Z,launched,levels/explorateur/niveau03.xml,1 - explorateur,[fr]niveau03[/fr][en]level03[/en],,
+A5A6ED94,2023-09-18T13:41:18.0640000Z,completed,,,,True,11750
+A5A6ED94,2023-09-18T13:41:20.7090000Z,exited,levels/explorateur/niveau03.xml,,,,
+A5A6ED94,2023-09-18T13:41:21.0150000Z,launched,levels/explorateur/niveau04.xml,1 - explorateur,[fr]niveau04[/fr][en]level04[/en],,
+A5A6ED94,2023-09-18T13:41:33.7210000Z,completed,,,,True,10499
+A5A6ED94,2023-09-18T13:41:35.1040000Z,exited,levels/explorateur/niveau04.xml,,,,
+A5A6ED94,2023-09-18T13:41:35.4190000Z,launched,levels/explorateur/niveau05.xml,1 - explorateur,[fr]niveau05[/fr][en]level05[/en],,
+A5A6ED94,2023-09-18T13:41:48.8230000Z,completed,,,,True,9875
+A5A6ED94,2023-09-18T13:41:50.7530000Z,exited,levels/explorateur/niveau05.xml,,,,
+A5A6ED94,2023-09-18T13:41:51.1330000Z,launched,levels/tutoriel/ouvrirporte.xml,1 - explorateur,[fr]niveau06[/fr][en]level06[/en],,
+A5A6ED94,2023-09-18T13:42:07.4360000Z,completed,,,,True,5499
+A5A6ED94,2023-09-18T13:42:08.1540000Z,exited,levels/tutoriel/ouvrirporte.xml,,,,
+A5A6ED94,2023-09-18T13:42:08.5590000Z,launched,levels/explorateur/niveau06.xml,1 - explorateur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T13:42:40.1790000Z,completed,,,,True,9249
+A5A6ED94,2023-09-18T13:42:41.8920000Z,exited,levels/explorateur/niveau06.xml,,,,
+A5A6ED94,2023-09-18T13:42:42.4470000Z,launched,levels/explorateur/niveau07.xml,1 - explorateur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T13:43:10.3790000Z,completed,,,,True,9153
+A5A6ED94,2023-09-18T13:43:11.7730000Z,exited,levels/explorateur/niveau07.xml,,,,
+A5A6ED94,2023-09-18T13:43:12.1790000Z,launched,levels/explorateur/niveau08.xml,1 - explorateur,[fr]niveau09[/fr][en]level09[/en],,
+A5A6ED94,2023-09-18T13:44:05.8770000Z,completed,,,,True,8882
+A5A6ED94,2023-09-18T13:44:10.5130000Z,exited,levels/explorateur/niveau08.xml,,,,
+A5A6ED94,2023-09-18T13:44:17.1760000Z,launched,levels/tutoriel/nommerscript.xml,2 - collaborateur,[fr]niveau01[/fr][en]level01[/en],,
+A5A6ED94,2023-09-18T13:44:35.7850000Z,completed,,,,True,6000
+A5A6ED94,2023-09-18T13:44:37.0150000Z,exited,levels/tutoriel/nommerscript.xml,,,,
+A5A6ED94,2023-09-18T13:44:37.3450000Z,launched,levels/collaborateur/niveau01.xml,2 - collaborateur,[fr]niveau02[/fr][en]level02[/en],,
+A5A6ED94,2023-09-18T13:44:52.2240000Z,completed,,,,True,15678
+A5A6ED94,2023-09-18T13:44:55.2150000Z,exited,levels/collaborateur/niveau01.xml,,,,
+A5A6ED94,2023-09-18T13:44:55.5640000Z,launched,levels/collaborateur/niveau02.xml,2 - collaborateur,[fr]niveau03[/fr][en]level03[/en],,
+A5A6ED94,2023-09-18T13:45:33.4840000Z,completed,,,,True,13483
+A5A6ED94,2023-09-18T13:45:35.7390000Z,exited,levels/collaborateur/niveau02.xml,,,,
+A5A6ED94,2023-09-18T13:45:36.0960000Z,launched,levels/collaborateur/niveau02.xml,2 - collaborateur,[fr]niveau03[/fr][en]level03[/en],,
+A5A6ED94,2023-09-18T13:45:53.1590000Z,completed,,,,True,14483
+A5A6ED94,2023-09-18T13:45:56.8920000Z,exited,levels/collaborateur/niveau02.xml,,,,
+A5A6ED94,2023-09-18T13:45:57.2470000Z,launched,levels/collaborateur/niveau03.xml,2 - collaborateur,[fr]niveau04[/fr][en]level04[/en],,
+A5A6ED94,2023-09-18T13:46:45.9850000Z,exited,levels/collaborateur/niveau03.xml,,,,
+A5A6ED94,2023-09-18T13:46:46.3600000Z,launched,levels/collaborateur/niveau03.xml,2 - collaborateur,[fr]niveau04[/fr][en]level04[/en],,
+A5A6ED94,2023-09-18T13:47:51.9900000Z,completed,,,,True,13930
+A5A6ED94,2023-09-18T13:47:55.0140000Z,exited,levels/collaborateur/niveau03.xml,,,,
+A5A6ED94,2023-09-18T13:47:55.3830000Z,launched,levels/collaborateur/niveau04.xml,2 - collaborateur,[fr]niveau05[/fr][en]level05[/en],,
+A5A6ED94,2023-09-18T13:48:31.9720000Z,completed,,,,True,13930
+A5A6ED94,2023-09-18T13:48:41.3830000Z,exited,levels/collaborateur/niveau04.xml,,,,
+A5A6ED94,2023-09-18T13:48:41.7700000Z,launched,levels/collaborateur/niveau04.xml,2 - collaborateur,[fr]niveau05[/fr][en]level05[/en],,
+A5A6ED94,2023-09-18T13:49:36.6200000Z,completed,,,,True,14026
+A5A6ED94,2023-09-18T13:49:41.9280000Z,exited,levels/collaborateur/niveau04.xml,,,,
+A5A6ED94,2023-09-18T13:49:42.2910000Z,launched,levels/infiltration/niveau07.xml,2 - collaborateur,[fr]niveau06[/fr][en]level06[/en],,
+A5A6ED94,2023-09-18T13:50:27.1890000Z,completed,,,,True,3976
+A5A6ED94,2023-09-18T13:50:28.7810000Z,exited,levels/infiltration/niveau07.xml,,,,
+A5A6ED94,2023-09-18T13:50:29.1320000Z,launched,levels/infiltration/niveau07.xml,2 - collaborateur,[fr]niveau06[/fr][en]level06[/en],,
+A5A6ED94,2023-09-18T13:51:31.1910000Z,completed,,,,True,3749
+A5A6ED94,2023-09-18T13:51:39.8770000Z,exited,levels/infiltration/niveau07.xml,,,,
+A5A6ED94,2023-09-18T13:51:40.2430000Z,launched,levels/infiltration/niveau07.xml,2 - collaborateur,[fr]niveau06[/fr][en]level06[/en],,
+A5A6ED94,2023-09-18T13:52:00.1630000Z,exited,levels/infiltration/niveau07.xml,,,,
+A5A6ED94,2023-09-18T13:52:02.8360000Z,launched,levels/infiltration/niveau10.xml,2 - collaborateur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T13:52:30.0430000Z,completed,,,,False,
+A5A6ED94,2023-09-18T13:52:33.3780000Z,exited,levels/infiltration/niveau10.xml,,,,
+A5A6ED94,2023-09-18T13:52:33.9650000Z,launched,levels/infiltration/niveau10.xml,2 - collaborateur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T13:53:15.5630000Z,completed,,,,True,3739
+A5A6ED94,2023-09-18T13:53:16.2860000Z,exited,levels/infiltration/niveau10.xml,,,,
+A5A6ED94,2023-09-18T13:53:16.8840000Z,launched,levels/infiltration/niveau10.xml,2 - collaborateur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T13:53:44.0980000Z,completed,,,,True,3739
+A5A6ED94,2023-09-18T13:53:49.1710000Z,exited,levels/infiltration/niveau10.xml,,,,
+A5A6ED94,2023-09-18T13:53:51.7180000Z,launched,levels/infiltration/niveau10.xml,2 - collaborateur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T13:54:15.3630000Z,completed,,,,True,3854
+A5A6ED94,2023-09-18T13:54:19.0620000Z,exited,levels/infiltration/niveau10.xml,,,,
+A5A6ED94,2023-09-18T13:54:19.4540000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T13:55:09.4070000Z,completed,,,,True,14143
+A5A6ED94,2023-09-18T13:55:13.1180000Z,exited,levels/collaborateur/niveau05.xml,,,,
+A5A6ED94,2023-09-18T13:55:13.5740000Z,launched,levels/collaborateur/niveau06.xml,2 - collaborateur,[fr]niveau09[/fr][en]level09[/en],,
+A5A6ED94,2023-09-18T13:55:35.2280000Z,exited,levels/collaborateur/niveau06.xml,,,,
+A5A6ED94,2023-09-18T13:55:35.6870000Z,launched,levels/collaborateur/niveau06.xml,2 - collaborateur,[fr]niveau09[/fr][en]level09[/en],,
+A5A6ED94,2023-09-18T13:56:16.4370000Z,completed,,,,True,13776
+A5A6ED94,2023-09-18T13:56:19.2080000Z,exited,levels/collaborateur/niveau06.xml,,,,
+A5A6ED94,2023-09-18T13:56:19.6160000Z,launched,levels/collaborateur/niveau07.xml,2 - collaborateur,[fr]niveau10[/fr][en]level10[/en],,
+A5A6ED94,2023-09-18T13:57:38.9410000Z,completed,,,,True,13784
+A5A6ED94,2023-09-18T13:57:40.5620000Z,exited,levels/collaborateur/niveau07.xml,,,,
+A5A6ED94,2023-09-18T13:57:40.9230000Z,launched,levels/tutoriel/createscript.xml,2 - collaborateur,[fr]niveau11[/fr][en]level11[/en],,
+A5A6ED94,2023-09-18T13:58:33.0940000Z,completed,,,,True,6750
+A5A6ED94,2023-09-18T13:58:41.8170000Z,exited,levels/tutoriel/createscript.xml,,,,
+A5A6ED94,2023-09-18T13:58:43.5410000Z,launched,levels/collaborateur/niveau08.xml,2 - collaborateur,[fr]niveau12[/fr][en]level12[/en],,
+A5A6ED94,2023-09-18T13:59:52.6670000Z,completed,,,,True,14143
+A5A6ED94,2023-09-18T13:59:54.2570000Z,exited,levels/collaborateur/niveau08.xml,,,,
+A5A6ED94,2023-09-18T14:01:22.4180000Z,launched,levels/repetiteur/niveau01.xml,3 - repetiteur,[fr]niveau01[/fr][en]level01[/en],,
+A5A6ED94,2023-09-18T14:01:38.6810000Z,completed,,,,True,9875
+A5A6ED94,2023-09-18T14:01:39.8130000Z,exited,levels/repetiteur/niveau01.xml,,,,
+A5A6ED94,2023-09-18T14:01:40.2240000Z,launched,levels/repetiteur/niveau02.xml,3 - repetiteur,[fr]niveau02[/fr][en]level02[/en],,
+A5A6ED94,2023-09-18T14:02:07.4850000Z,exited,levels/repetiteur/niveau02.xml,,,,
+A5A6ED94,2023-09-18T14:02:07.9050000Z,launched,levels/repetiteur/niveau02.xml,3 - repetiteur,[fr]niveau02[/fr][en]level02[/en],,
+A5A6ED94,2023-09-18T14:02:24.5950000Z,completed,,,,False,
+A5A6ED94,2023-09-18T14:02:25.8120000Z,exited,levels/repetiteur/niveau02.xml,,,,
+A5A6ED94,2023-09-18T14:02:26.2210000Z,launched,levels/repetiteur/niveau02.xml,3 - repetiteur,[fr]niveau02[/fr][en]level02[/en],,
+A5A6ED94,2023-09-18T14:02:40.5640000Z,completed,,,,True,11888
+A5A6ED94,2023-09-18T14:02:42.1540000Z,exited,levels/repetiteur/niveau02.xml,,,,
+A5A6ED94,2023-09-18T14:02:42.5720000Z,launched,levels/repetiteur/niveau03.xml,3 - repetiteur,[fr]niveau03[/fr][en]level03[/en],,
+A5A6ED94,2023-09-18T14:04:16.2450000Z,completed,,,,True,9978
+A5A6ED94,2023-09-18T14:04:20.3680000Z,exited,levels/repetiteur/niveau03.xml,,,,
+A5A6ED94,2023-09-18T14:04:20.8040000Z,launched,levels/repetiteur/niveau03.xml,3 - repetiteur,[fr]niveau03[/fr][en]level03[/en],,
+A5A6ED94,2023-09-18T14:05:01.4890000Z,completed,,,,True,10050
+A5A6ED94,2023-09-18T14:05:02.6370000Z,exited,levels/repetiteur/niveau03.xml,,,,
+A5A6ED94,2023-09-18T14:05:03.0880000Z,launched,levels/blocklymaze/niveau04.xml,3 - repetiteur,[fr]niveau04[/fr][en]level04[/en],,
+A5A6ED94,2023-09-18T14:05:43.3120000Z,exited,levels/blocklymaze/niveau04.xml,,,,
+A5A6ED94,2023-09-18T14:05:43.7580000Z,launched,levels/blocklymaze/niveau04.xml,3 - repetiteur,[fr]niveau04[/fr][en]level04[/en],,
+A5A6ED94,2023-09-18T14:06:09.7060000Z,completed,,,,True,4943
+A5A6ED94,2023-09-18T14:06:10.4180000Z,exited,levels/blocklymaze/niveau04.xml,,,,
+A5A6ED94,2023-09-18T14:06:10.8880000Z,launched,levels/repetiteur/niveau04.xml,3 - repetiteur,[fr]niveau05[/fr][en]level05[/en],,
+A5A6ED94,2023-09-18T14:06:42.7350000Z,completed,,,,True,9655
+A5A6ED94,2023-09-18T14:06:44.1650000Z,exited,levels/repetiteur/niveau04.xml,,,,
+A5A6ED94,2023-09-18T14:06:44.6080000Z,launched,levels/repetiteur/niveau05.xml,3 - repetiteur,[fr]niveau06[/fr][en]level06[/en],,
+A5A6ED94,2023-09-18T14:07:24.6190000Z,completed,,,,False,
+A5A6ED94,2023-09-18T14:07:26.4330000Z,exited,levels/repetiteur/niveau05.xml,,,,
+A5A6ED94,2023-09-18T14:07:26.8600000Z,launched,levels/repetiteur/niveau05.xml,3 - repetiteur,[fr]niveau06[/fr][en]level06[/en],,
+A5A6ED94,2023-09-18T14:07:46.5240000Z,completed,,,,True,10250
+A5A6ED94,2023-09-18T14:07:48.2930000Z,exited,levels/repetiteur/niveau05.xml,,,,
+A5A6ED94,2023-09-18T14:07:48.7600000Z,launched,levels/repetiteur/niveau06.xml,3 - repetiteur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T14:08:21.2320000Z,completed,,,,False,
+A5A6ED94,2023-09-18T14:08:22.7070000Z,exited,levels/repetiteur/niveau06.xml,,,,
+A5A6ED94,2023-09-18T14:08:23.2080000Z,launched,levels/repetiteur/niveau06.xml,3 - repetiteur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T14:08:36.7680000Z,completed,,,,True,5384
+A5A6ED94,2023-09-18T14:08:37.9970000Z,exited,levels/repetiteur/niveau06.xml,,,,
+A5A6ED94,2023-09-18T14:08:38.4790000Z,launched,levels/repetiteur/niveau06.xml,3 - repetiteur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T14:08:52.5290000Z,completed,,,,True,5416
+A5A6ED94,2023-09-18T14:08:53.8000000Z,exited,levels/repetiteur/niveau06.xml,,,,
+A5A6ED94,2023-09-18T14:08:54.2750000Z,launched,levels/repetiteur/niveau07.xml,3 - repetiteur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T14:11:33.5180000Z,exited,levels/repetiteur/niveau07.xml,,,,
+A5A6ED94,2023-09-18T14:11:34.0220000Z,launched,levels/repetiteur/niveau07.xml,3 - repetiteur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T14:11:56.8460000Z,completed,,,,True,9071
+A5A6ED94,2023-09-18T14:12:05.3370000Z,exited,levels/repetiteur/niveau07.xml,,,,
+A5A6ED94,2023-09-18T14:12:05.8260000Z,launched,levels/repetiteur/niveau07.xml,3 - repetiteur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T14:12:56.5510000Z,completed,,,,True,9333
+A5A6ED94,2023-09-18T14:13:04.1180000Z,exited,levels/repetiteur/niveau07.xml,,,,
+A5A6ED94,2023-09-18T14:13:04.6100000Z,launched,levels/repetiteur/niveau07.xml,3 - repetiteur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T14:13:48.4090000Z,completed,,,,True,9190
+A5A6ED94,2023-09-18T14:13:53.3400000Z,exited,levels/repetiteur/niveau07.xml,,,,
+A5A6ED94,2023-09-18T14:13:53.8330000Z,launched,levels/repetiteur/niveau07.xml,3 - repetiteur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T14:13:58.5040000Z,exited,levels/repetiteur/niveau07.xml,,,,
+A5A6ED94,2023-09-18T14:14:01.8020000Z,launched,levels/tutoriel/ouvrirporte.xml,3 - repetiteur,[fr]niveau09[/fr][en]level09[/en],,
+A5A6ED94,2023-09-18T14:14:18.3680000Z,completed,,,,True,5499
+A5A6ED94,2023-09-18T14:14:20.2760000Z,exited,levels/tutoriel/ouvrirporte.xml,,,,
+A5A6ED94,2023-09-18T14:14:20.8620000Z,launched,levels/repetiteur/niveau08.xml,3 - repetiteur,[fr]niveau10[/fr][en]level10[/en],,
+A5A6ED94,2023-09-18T14:18:09.8230000Z,exited,levels/repetiteur/niveau08.xml,,,,
+A5A6ED94,2023-09-18T14:18:10.4760000Z,launched,levels/repetiteur/niveau08.xml,3 - repetiteur,[fr]niveau10[/fr][en]level10[/en],,
+A5A6ED94,2023-09-18T14:21:18.9320000Z,completed,,,,True,7447
+A5A6ED94,2023-09-18T14:21:22.5760000Z,exited,levels/repetiteur/niveau08.xml,,,,
+A5A6ED94,2023-09-18T14:21:30.0320000Z,launched,levels/blocklymaze/niveau06.xml,4 - selectionneur,[fr]niveau01[/fr][en]level01[/en],,
+A5A6ED94,2023-09-18T14:22:39.3150000Z,completed,,,,True,4893
+A5A6ED94,2023-09-18T14:22:42.4790000Z,exited,levels/blocklymaze/niveau06.xml,,,,
+A5A6ED94,2023-09-18T14:22:42.9610000Z,launched,levels/infiltration/niveau14.xml,4 - selectionneur,[fr]niveau02[/fr][en]level02[/en],,
+A5A6ED94,2023-09-18T14:23:13.0980000Z,completed,,,,True,4999
+A5A6ED94,2023-09-18T14:23:13.9200000Z,exited,levels/infiltration/niveau14.xml,,,,
+A5A6ED94,2023-09-18T14:23:16.1830000Z,launched,levels/infiltration/niveau15.xml,4 - selectionneur,[fr]niveau03[/fr][en]level03[/en],,
+A5A6ED94,2023-09-18T14:23:36.7320000Z,completed,,,,True,5833
+A5A6ED94,2023-09-18T14:23:37.5390000Z,exited,levels/infiltration/niveau15.xml,,,,
+A5A6ED94,2023-09-18T14:23:38.0010000Z,launched,levels/blocklymaze/niveau07.xml,4 - selectionneur,[fr]niveau04[/fr][en]level04[/en],,
+A5A6ED94,2023-09-18T14:25:16.6700000Z,completed,,,,True,4960
+A5A6ED94,2023-09-18T14:25:17.3620000Z,exited,levels/blocklymaze/niveau07.xml,,,,
+A5A6ED94,2023-09-18T14:25:17.9010000Z,launched,levels/blocklymaze/niveau08.xml,4 - selectionneur,[fr]niveau05[/fr][en]level05[/en],,
+A5A6ED94,2023-09-18T14:26:25.7230000Z,completed,,,,True,4109
+A5A6ED94,2023-09-18T14:26:26.6860000Z,exited,levels/blocklymaze/niveau08.xml,,,,
+A5A6ED94,2023-09-18T14:26:27.1900000Z,launched,levels/infiltration/niveau16.xml,4 - selectionneur,[fr]niveau06[/fr][en]level06[/en],,
+A5A6ED94,2023-09-18T14:27:12.7810000Z,completed,,,,True,4166
+A5A6ED94,2023-09-18T14:27:13.5090000Z,exited,levels/infiltration/niveau16.xml,,,,
+A5A6ED94,2023-09-18T14:27:14.0350000Z,launched,levels/infiltration/niveau20.xml,4 - selectionneur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T14:28:05.1790000Z,completed,,,,True,3666
+A5A6ED94,2023-09-18T14:28:06.0390000Z,exited,levels/infiltration/niveau20.xml,,,,
+A5A6ED94,2023-09-18T14:28:06.5410000Z,launched,levels/selectionneur/niveau01.xml,4 - selectionneur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T14:28:12.1710000Z,exited,levels/selectionneur/niveau01.xml,,,,
+A5A6ED94,2023-09-18T14:28:15.0510000Z,launched,levels/infiltration/niveau20.xml,4 - selectionneur,[fr]niveau07[/fr][en]level07[/en],,
+A5A6ED94,2023-09-18T14:28:42.7360000Z,completed,,,,True,4666
+A5A6ED94,2023-09-18T14:28:44.0990000Z,exited,levels/infiltration/niveau20.xml,,,,
+A5A6ED94,2023-09-18T14:28:44.6020000Z,launched,levels/selectionneur/niveau01.xml,4 - selectionneur,[fr]niveau08[/fr][en]level08[/en],,
+A5A6ED94,2023-09-18T14:30:17.6590000Z,completed,,,,True,4527
+A5A6ED94,2023-09-18T14:30:24.6610000Z,exited,levels/selectionneur/niveau01.xml,,,,

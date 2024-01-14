@@ -1,0 +1,85 @@
+actor,timestamp,verb,xml,scenario,level,success,score
+FEA2C977,2023-05-25T09:54:34.5030000Z,launched,levels/tutoriel/tutoriel.xml,0 - tutoriel,tutoriel,,
+FEA2C977,2023-05-25T09:57:10.9440000Z,exited,levels/tutoriel/tutoriel.xml,,,,
+FEA2C977,2023-05-25T09:57:28.1420000Z,launched,levels/explorateur/niveau01.xml,1 - explorateur,niveau01,,
+FEA2C977,2023-05-25T09:58:05.0240000Z,completed,,,,True,15500
+FEA2C977,2023-05-25T09:58:09.5530000Z,exited,levels/explorateur/niveau01.xml,,,,
+FEA2C977,2023-05-25T09:58:09.7790000Z,launched,levels/explorateur/niveau02.xml,1 - explorateur,niveau02,,
+FEA2C977,2023-05-25T09:58:26.7160000Z,completed,,,,True,12999
+FEA2C977,2023-05-25T09:58:30.1400000Z,exited,levels/explorateur/niveau02.xml,,,,
+FEA2C977,2023-05-25T09:58:30.3520000Z,launched,levels/explorateur/niveau03.xml,1 - explorateur,niveau03,,
+FEA2C977,2023-05-25T09:58:55.4290000Z,completed,,,,True,11750
+FEA2C977,2023-05-25T09:59:01.4260000Z,exited,levels/explorateur/niveau03.xml,,,,
+FEA2C977,2023-05-25T09:59:01.6460000Z,launched,levels/explorateur/niveau04.xml,1 - explorateur,niveau04,,
+FEA2C977,2023-05-25T09:59:34.3490000Z,completed,,,,True,10499
+FEA2C977,2023-05-25T09:59:36.9600000Z,exited,levels/explorateur/niveau04.xml,,,,
+FEA2C977,2023-05-25T09:59:37.1900000Z,launched,levels/explorateur/niveau05.xml,1 - explorateur,niveau05,,
+FEA2C977,2023-05-25T10:00:24.8150000Z,completed,,,,True,9875
+FEA2C977,2023-05-25T10:00:31.7620000Z,exited,levels/explorateur/niveau05.xml,,,,
+FEA2C977,2023-05-25T10:00:32.0190000Z,launched,levels/tutoriel/ouvrirporte.xml,1 - explorateur,niveau06,,
+FEA2C977,2023-05-25T10:01:36.3810000Z,completed,,,,True,4875
+FEA2C977,2023-05-25T10:01:39.6840000Z,exited,levels/tutoriel/ouvrirporte.xml,,,,
+FEA2C977,2023-05-25T10:01:40.0380000Z,launched,levels/explorateur/niveau06.xml,1 - explorateur,niveau07,,
+FEA2C977,2023-05-25T10:03:11.8280000Z,completed,,,,True,9249
+FEA2C977,2023-05-25T10:03:13.6410000Z,exited,levels/explorateur/niveau06.xml,,,,
+FEA2C977,2023-05-25T10:03:13.9120000Z,launched,levels/explorateur/niveau07.xml,1 - explorateur,niveau08,,
+FEA2C977,2023-05-25T10:04:37.4000000Z,completed,,,,True,9153
+FEA2C977,2023-05-25T10:04:39.0590000Z,exited,levels/explorateur/niveau07.xml,,,,
+FEA2C977,2023-05-25T10:04:39.3670000Z,launched,levels/explorateur/niveau08.xml,1 - explorateur,niveau09,,
+FEA2C977,2023-05-25T10:12:05.9780000Z,completed,,,,True,6494
+FEA2C977,2023-05-25T10:12:18.2020000Z,exited,levels/explorateur/niveau08.xml,,,,
+FEA2C977,2023-05-25T10:12:27.7590000Z,launched,levels/tutoriel/nommerscript.xml,2 - collaborateur,niveau01,,
+FEA2C977,2023-05-25T10:13:32.3080000Z,completed,,,,True,5000
+FEA2C977,2023-05-25T10:13:33.8420000Z,exited,levels/tutoriel/nommerscript.xml,,,,
+FEA2C977,2023-05-25T10:13:34.0850000Z,launched,levels/collaborateur/niveau01.xml,2 - collaborateur,niveau02,,
+FEA2C977,2023-05-25T10:14:10.5110000Z,completed,,,,True,15678
+FEA2C977,2023-05-25T10:14:12.7810000Z,exited,levels/collaborateur/niveau01.xml,,,,
+FEA2C977,2023-05-25T10:14:13.0230000Z,launched,levels/collaborateur/niveau02.xml,2 - collaborateur,niveau03,,
+FEA2C977,2023-05-25T10:16:10.3320000Z,completed,,,,True,13291
+FEA2C977,2023-05-25T10:16:11.8060000Z,exited,levels/collaborateur/niveau02.xml,,,,
+FEA2C977,2023-05-25T10:16:12.0700000Z,launched,levels/collaborateur/niveau03.xml,2 - collaborateur,niveau04,,
+FEA2C977,2023-05-25T10:20:14.7420000Z,completed,,,,True,11458
+FEA2C977,2023-05-25T10:20:16.6580000Z,exited,levels/collaborateur/niveau03.xml,,,,
+FEA2C977,2023-05-25T10:20:16.9380000Z,launched,levels/collaborateur/niveau04.xml,2 - collaborateur,niveau05,,
+FEA2C977,2023-05-25T10:22:17.9230000Z,completed,,,,True,13930
+FEA2C977,2023-05-25T10:22:20.0020000Z,exited,levels/collaborateur/niveau04.xml,,,,
+FEA2C977,2023-05-25T10:22:20.2400000Z,launched,levels/infiltration/niveau07.xml,2 - collaborateur,niveau06,,
+FEA2C977,2023-05-25T10:23:58.0520000Z,completed,,,,True,2476
+FEA2C977,2023-06-15T09:24:18.4300000Z,launched,levels/infiltration/niveau07.xml,2 - collaborateur,niveau06,,
+FEA2C977,2023-06-15T09:24:53.8540000Z,completed,,,,True,3976
+FEA2C977,2023-06-15T09:25:00.7450000Z,exited,levels/infiltration/niveau07.xml,,,,
+FEA2C977,2023-06-15T09:25:01.1930000Z,launched,levels/infiltration/niveau10.xml,2 - collaborateur,niveau07,,
+FEA2C977,2023-06-15T09:25:44.4330000Z,completed,,,,True,3854
+FEA2C977,2023-06-15T09:25:46.9920000Z,exited,levels/infiltration/niveau10.xml,,,,
+FEA2C977,2023-06-15T09:25:47.2670000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:26:34.7520000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:26:38.8270000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:26:39.0840000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:27:57.6590000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:28:05.2310000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:28:05.5100000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:30:36.2970000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:30:38.8350000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:30:39.1050000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:32:09.9060000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:32:33.4470000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:32:33.7790000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:33:18.1280000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:33:18.4640000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:34:26.3650000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:34:29.2140000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:34:29.4810000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:35:26.4740000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:35:33.4310000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:35:33.7450000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:36:53.9720000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:38:00.3850000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:38:00.6420000Z,launched,levels/collaborateur/niveau05.xml,2 - collaborateur,niveau08,,
+FEA2C977,2023-06-15T09:52:23.3860000Z,completed,,,,False,
+FEA2C977,2023-06-15T09:52:25.5710000Z,exited,levels/collaborateur/niveau05.xml,,,,
+FEA2C977,2023-06-15T09:52:30.8660000Z,launched,levels/collaborateur/niveau03.xml,2 - collaborateur,niveau04,,
+FEA2C977,2023-06-15T09:55:14.8450000Z,completed,,,,True,11497
+FEA2C977,2023-06-15T09:55:25.7860000Z,exited,levels/collaborateur/niveau03.xml,,,,
+FEA2C977,2023-06-15T09:55:26.0390000Z,launched,levels/collaborateur/niveau04.xml,2 - collaborateur,niveau05,,
+FEA2C977,2023-06-15T09:57:33.5910000Z,completed,,,,True,12930
+FEA2C977,2023-06-15T09:57:41.9560000Z,exited,levels/collaborateur/niveau04.xml,,,,
